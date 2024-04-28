@@ -1,0 +1,4 @@
+frontend
+-saya ingin konsisten belajar setiap hari 8 jam perhari
+- HTML dan csa
+- belajar php
